@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  rust-component-history:
+    build: .
+    image: brainpower/rust-component-history
